@@ -2,7 +2,7 @@
 
 # Tradução PT-BR — The Legend of Spyro: Dawn of the Dragon (PS2)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeHtWGZ0WhOiaLy-pBpVgsvwVndu6iJNUnp7fCEWhhQ&s=10" width="300" alt="Capa The Legend of Spyro - Dawn of the Dragon">
+<img src="capa.jpg" width="300" alt="Capa The Legend of Spyro - Dawn of the Dragon">
 
 Patch de tradução completa para Português Brasileiro do jogo **The Legend of Spyro: Dawn of the Dragon** (PlayStation 2), feito por fã para fãs.
 
@@ -14,10 +14,10 @@ Patch de tradução completa para Português Brasileiro do jogo **The Legend of 
 
 - Todo o texto do jogo em português do Brasil, acentuado (menus, legendas, tutoriais, mensagens de sistema, save).
 
-## Conteúdo do repositório
+## O que vem no download
 
 - `The Legend of Spyro  - Dawn of the Dragon (Patch BR).xdelta` — o patch de tradução (formato xdelta)
-- `LEIA-ME` — instruções completas de instalação (em português)
+- `LEIA-ME.txt` — instruções completas de instalação (em português)
 
 ## Requisitos
 
@@ -28,12 +28,12 @@ ISO **original e limpa**, versão **NTSC-U (americana)**, executável **SLUS_218
 | Arquivo | `The Legend of Spyro - Dawn of the Dragon.iso` |
 | Tamanho | 2.674.982.912 bytes |
 
-Se o MD5 do seu disco for outro, o patch **não** vai aplicar. O patch não acompanha o jogo — use seu próprio disco.
+Se a sua ISO for de outra versão (europeia, japonesa) ou já tiver sido modificada, o patch **não** vai aplicar. O patch não acompanha o jogo — use seu próprio disco.
 
 ## Como instalar
 
 
-1. Baixe o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
+1. Baixe o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases) e o .zip da tradução (aba **Releases**)
 2. Em **XDelta Patch**, escolha `The Legend of Spyro  - Dawn of the Dragon (Patch BR).xdelta`.
 3. Em **Original file**, escolha a ISO original.
 4. Clique em **Apply patch**.
